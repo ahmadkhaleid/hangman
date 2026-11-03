@@ -64,7 +64,7 @@ document.addEventListener("click",e => {
         successDiv = document.createElement("div")
         successDiv.classList.add("popup")
         successDiv.style.backgroundColor = "orange"
-        successDiv.innerHTML = `برافوووو عليك شطورة يا نادووو  ${randomValueValue} `;
+        successDiv.innerHTML = `برافوووو عليك شطورة    ${randomValueValue} `;
        container.appendChild(successDiv)
 
     }
